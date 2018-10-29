@@ -1,0 +1,1 @@
+This project is example how using Struts 2 to create a Crud Fonctionality using object stored in java memory
